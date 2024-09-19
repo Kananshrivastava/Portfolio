@@ -1,9 +1,1 @@
-How to identified the bank customer who are going to leave the bank or left the bank
-Problem: Bank customer churn model
-Learning Objective-
-Data Encoding
-Feature Scaling
-Handling Imbalance Data - a) Random Under Sampling b) Random Over Sampling
-Support Vector Machine classifier
-Grid Search for Hyperparameter tunning: used to find most appropriate model
-Library used: pandas, numpy, matplotlib, seaborn
+
