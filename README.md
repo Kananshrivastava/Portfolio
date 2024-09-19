@@ -12,7 +12,7 @@ KPI's Requirements:
 4. Average Rating: The average customer rating for items sold.
    
 Insights:
-1.	Sales Performance: Total sales amount to $1.20M, with 8,523 items sold and an average sale per transaction of $141.
+1.	Sales Performance
 	2.	Customer Satisfaction: The average customer rating is 3.9, indicating moderate satisfaction.
 	3.	Popular Product Categories: “Fruits and Vegetables” and “Snack Foods” are top-selling categories.
 	4.	Outlet Trends: Medium and large outlets generate the most sales. Tier 3 locations show the highest sales figures.
